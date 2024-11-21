@@ -1,0 +1,5 @@
+{
+    "require": {
+        "ramytalal/label-printer": "^1.2"
+    }
+}
